@@ -1,0 +1,22 @@
+title: Indian Currency Notes Classifier
+description: Classify Indian Currency Notes using fastai and Deep Learning with resnet34 architecture
+about:
+
+
+  This is a Indian Currency Notes Classifier using Deep Learning built on top of Pytorch, that is using fastai
+
+
+  The project was build by Yash Runwal (https://github.com/YashRunwal)
+
+
+code: https://github.com/YashRunwal/Indian-Notes-Classifier
+
+sampleImages:
+  - name: Note_10
+    url: https://hi-static.z-dn.net/files/d60/1ca6e2f8ea8090c979600b88438ec602.jpg
+  - name: Note_20
+    url: https://previews.123rf.com/images/gesrey/gesrey1803/gesrey180300005/98556961-close-up-20-indian-rupee-frontside-with-mahatma-gandhi-background.jpg
+  - name: Note_50
+    url: https://i.ndtvimg.com/i/2017-08/rs-50-rbi_650x400_71503068441.jpg
+  - name: Note_100
+    url: https://upload.wikimedia.org/wikipedia/commons/8/88/India_new_100_INR%2C_Mahatma_Gandhi_New_Series%2C_2018%2C_obverse.png
