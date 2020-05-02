@@ -1,5 +1,6 @@
 # Training the Indian Currency Notes Classifier & Creating a Web App
 Big Thanks to the following repo: https://github.com/npatta01/web-deep-learning-classifier
+Dataset from kaggle: https://www.kaggle.com/shobhit18th/indian-currency-notes
 
 ## My example:  Indian-Notes-Classifier
 
