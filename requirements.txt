@@ -2,4 +2,4 @@ torch==1.0.0
 torchvision==0.2.1
 Flask==1.0.2
 fastai==1.0.42
-
+https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
