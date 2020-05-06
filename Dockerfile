@@ -1,7 +1,7 @@
 FROM python:3.6-slim-stretch
 
-RUN apt update && \
-    apt install -y python3-dev gcc
+RUN apt update
+RUN apt install -y python3-dev gcc
 
 WORKDIR app 
 # Install pytorch and fastai
